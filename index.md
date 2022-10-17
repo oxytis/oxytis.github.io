@@ -24,7 +24,7 @@ Discover PII sensitive data. Find most common personally identifiable informatio
 ---
 
 ###  <a href="https://bit.ly/3VA8BdS">Media</a> (Entertainment) on GAE
-Website for reviews of Movie and TV Shows. Automated reviews of media shows based on new ratings scheme. Recommendations based on user submitted ratings. Self-registration and transparent login via gmail and twitter. 
+Website for reviews of Movie and TV Shows. Automated reviews of media shows based on new ratings scheme. Recommendations based on user submitted ratings. Self-registration and transparent login via gmail and twitter. Aggregate ratings based on audience participation. 
 <br><br>
    **Web Framework**  Flask<br>
    **Environment**  Google App Engine in standard environment (GAE)<br>
