@@ -2,7 +2,7 @@
 
 ---
 
-### Powertrain - PDF report engine on GAE
+###  <a href="https://oxytis.com/powertrain">Powertrain</a> - PDF report engine on GAE
 
    **Web Framework**  Flask<br>
    **Environment**  Google App Engine in standard environment (GAE)<br>
@@ -13,17 +13,12 @@
 
 ---
 
-### Oxidize - Search files for various PII  <a href="https://github.com/oxytis/oxidize">Oxidize</a>
-
+###  <a href="https://github.com/oxytis/oxidize">Oxidize</a> - Search files for various PII 
 Discover PII sensitive data. Find most common personally identifiable information in your environment such as financial related information. Quickly determine exposure after a breach. Find the most common data elements SSN, Tax IDs, CCN, and DOB in PDF, DOC|DOCX, XLS|XLSX, EML, Plain|Text|CSV, and files in ZIP archives!.
 <br><br>
    **Platform**  Linux/Windows (command line)<br>
    **Language**  Golang<br>
    **Functions** Use with Powetrain, copy to remote host via ssh
-
-<p align=center>
-  <a href="https://github.com/oxytis/oxidize">Oxidize</a>
-</p>
 
 ---
 
