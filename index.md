@@ -11,10 +11,6 @@
    **Integrations**  3rd party APIs for OSINT, harvesting, payments w/Stripe<br>
    **Misc**  Creates a final PDF report<br>
 
-<p align=center>
-<a href="https://www.oxytis.com/powertrain"><img src="images/ptrain.png?raw=true" width=200 height=200/></a>
-</p>
-
 ---
 
 
