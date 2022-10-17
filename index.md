@@ -13,19 +13,6 @@
 
 ---
 
-
-### Media (Entertainment) on GAE
-
-   **Web Framework**  Flask<br>
-   **Environment**  Google App Engine in standard environment (GAE)<br>
-   **Language**  Python 3<br>
-   **Database**  Firestore in datastore mode<br>
-   **Functions** User management, forms, ratings and recommendations<br>
-   **Integrations**  APIs for content, stream options, OAUTH (twitter/gmail)<br>
-   **Misc**  Infinite scrolling, social media sharing, advertising<br>
-
----
-
 ### Oxidize - Search files for various PII
 
 Discover PII sensitive data. Find most common personally identifiable information in your environment such as financial related information. Quickly determine exposure after a breach. Find the most common data elements SSN, Tax IDs, CCN, and DOB in PDF, DOC|DOCX, XLS|XLSX, EML, Plain|Text|CSV, and files in ZIP archives!.
@@ -37,3 +24,15 @@ Discover PII sensitive data. Find most common personally identifiable informatio
 <p align=center>
   <a href="https://github.com/oxytis/oxidize">Oxidize</a>
 </p>
+
+---
+
+### Media (Entertainment) on GAE
+
+   **Web Framework**  Flask<br>
+   **Environment**  Google App Engine in standard environment (GAE)<br>
+   **Language**  Python 3<br>
+   **Database**  Firestore in datastore mode<br>
+   **Functions** User management, forms, ratings and recommendations<br>
+   **Integrations**  APIs for content, stream options, OAUTH (twitter/gmail)<br>
+   **Misc**  Infinite scrolling, social media sharing, advertising<br>
