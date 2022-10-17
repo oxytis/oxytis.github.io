@@ -1,35 +1,43 @@
-## Portfolio
+## Programming Projects
 
 ---
 
-### Category Name 1 
+### Powertrain - PDF report engine on GAE
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+   **Web Framework**  Flask<br>
+   **Environment**  Google App Engine in standard environment (GAE)<br>
+   **Language**  Python 3<br>
+   **Functions**  Upload images, Nessus output, NMAP output, and text files<br>
+   **Integrations**  3rd party APIs for OSINT, harvesting, payments w/Stripe<br>
+   **Misc**  Creates a final PDF report<br>
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+<p align=center>
+<a href="https://www.oxytis.com/powertrain"><img src="images/ptrain.png?raw=true" width=200 height=200/></a>
+</p>
 
 ---
 
 
+### Media (Entertainment) on GAE
 
+   **Web Framework**  Flask<br>
+   **Environment**  Google App Engine in standard environment (GAE)<br>
+   **Language**  Python 3<br>
+   **Database**  Firestore in datastore mode<br>
+   **Functions** User management, forms, ratings and recommendations<br>
+   **Integrations**  APIs for content, stream options, OAUTH (twitter/gmail)<br>
+   **Misc**  Infinite scrolling, social media sharing, advertising<br>
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
+### Oxidize - Search files for various PII
+
+Discover PII sensitive data. Find most common personally identifiable information in your environment such as financial related information. Quickly determine exposure after a breach. Find the most common data elements SSN, Tax IDs, CCN, and DOB in PDF, DOC|DOCX, XLS|XLSX, EML, Plain|Text|CSV, and files in ZIP archives!.
+<br><br>
+   **Platform**  Linux/Windows (command line)<br>
+   **Language**  Golang<br>
+   **Functions** Use with Powetrain, copy to remote host via ssh
+
+<p align=center>
+  <a href="https://github.com/oxytis/oxidize">Oxidize</a>
+</p>
