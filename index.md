@@ -32,5 +32,5 @@ Website for reviews of Movie and TV Shows. Automated reviews of media shows base
    **Database**  Firestore in datastore mode<br>
    **Functions** User management, forms, ratings and recommendations<br>
    **Integrations**  APIs for content, stream options, OAUTH (twitter/gmail), NFTs (opensea), OpenAI API (Optimizing
-Language Models for Dialogu)<br>
+Language Models for Dialogue)<br>
    **Misc**  Infinite scrolling, social media sharing, advertising<br>
