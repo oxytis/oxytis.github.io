@@ -20,6 +20,7 @@ Discover PII sensitive data. Find most common personally identifiable informatio
    **Platform**  Linux/Windows (command line)<br>
    **Language**  Golang<br>
    **Functions** Use with Powetrain, copy to remote host via ssh
+   **Commercial** Pay version offers comprehensive file type coverage
 
 ---
 
