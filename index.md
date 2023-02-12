@@ -8,7 +8,7 @@ Perfect fit for consultants, security firms and DIY looking for a consistent rep
    **Web Framework**  Flask<br>
    **Environment**  Google App Engine in standard environment (GAE)<br>
    **Language**  Python 3<br>
-   **Functions**  Upload images, Nessus, NMAP and Burpsuite XML files, and text files<br>
+   **Functions**  Upload images, text, Nessus, NMAP and Burp XML<br>
    **Integrations**  3rd party APIs for OSINT, harvesting, payments w/Stripe<br>
    **Misc**  Creates a final PDF report<br>
 
