@@ -10,7 +10,7 @@ Perfect fit for consultants, security firms and DIY looking for a consistent rep
    **Language**  Python 3<br>
    **Functions**  Images, text, and XML (Nessus, Nexpose, NMAP, Burp)<br>
    **Integrations**  APIs for OSINT, OpenAI API, harvesting, Stripe<br>
-   **Misc**  GoLang cloud function for licensing, PDF reporting<br>
+   **Misc**  GoLang cloud run for licensing, PDF reporting<br>
 
 ---
 
