@@ -8,9 +8,9 @@ Perfect fit for consultants, security firms and DIY looking for a consistent rep
    **Web Framework**  Flask<br>
    **Environment**  Google App Engine in standard environment (GAE)<br>
    **Language**  Python 3<br>
-   **Functions**  Upload images, text, and XML (Nessus, NMAP and Burp)<br>
+   **Functions**  Upload images, text, and XML (Nessus, Nexpose, NMAP, Burp)<br>
    **Integrations**  3rd party APIs for OSINT, OpenAI API, harvesting, payments w/Stripe<br>
-   **Misc**  Creates a final PDF report<br>
+   **Misc**  GoLang cloud function for licensing, PDF reporting<br>
 
 ---
 
