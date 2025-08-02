@@ -35,3 +35,16 @@ Website for reviews of Movie and TV Shows. Automated reviews of media shows base
    **Integrations**  APIs for content, stream options, OAUTH (twitter/gmail), NFTs (opensea), OpenAI API (Optimizing
 Language Models for Dialogue using the davinci model)<br>
    **Misc**  Infinite scrolling, social media sharing, advertising<br>
+
+---
+
+###  <a href="#">CLIENT/SERVER MIGRATION</a> (Internal Tools) on GKE + Cloud Run
+Modernized a legacy Node.js application originally designed for local client/server use by migrating it to a scalable, containerized, cloud-native architecture. Frontend deployed to Cloud Run for stateless scalability; backend deployed to GKE Autopilot with persistent volume support for stateful services and file uploads. Decoupled system architecture allows independent deployment and scaling of frontend and backend services.
+<br><br>
+   **Frontend Hosting** Cloud Run (fully managed)<br>
+   **Backend Hosting** GKE Autopilot with PersistentVolumeClaim<br>
+   **Language** Node.js<br>
+   **Storage** Kubernetes PersistentVolumeClaim (for database and uploaded files)<br>
+   **Functions** REST API, file uploads, persistent local storage access<br>
+   **Integrations** Kubernetes, Docker, TLS-enabled GCP Load Balancer, CI/CD pipeline<br>
+   **Misc** Secure HTTPS communication, JWT-based authentication, CORS management<br>
